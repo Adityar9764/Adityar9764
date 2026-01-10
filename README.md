@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Aditya Raj 👋
 
-<!--
-**Adityar9764/Adityar9764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer focused on building real-world projects and
+contributing to open-source.
 
-Here are some ideas to get you started:
+### 🔧 Projects
+Most of my personal projects are hosted on this GitHub account.
+They include backend systems, ML/AI experiments, and full project pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Open Source Contributions
+Some of my open-source contributions were made using a college email–linked
+GitHub account due to institutional requirements.
+
+➡️ Open-source account: https://github.com/college-username
+
+Both accounts belong to me.
+
+### 📌 Interests
+- Backend Development
+- Machine Learning & AI
+- System Design
+- Open Source
+
+---
+📫 Reach me via GitHub or LinkedIn
