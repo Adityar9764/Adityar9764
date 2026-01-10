@@ -11,14 +11,14 @@ They include backend systems, ML/AI experiments, and full project pipelines.
 Some of my open-source contributions were made using a college email–linked
 GitHub account due to institutional requirements.
 
-➡️ Open-source account: https://github.com/college-username
+➡️ Open-source account: https://github.com/Adityar8652
 
 Both accounts belong to me.
 
 ### 📌 Interests
 - Backend Development
 - Machine Learning & AI
-- System Design
+- System Design & DevOps
 - Open Source
 
 ---
