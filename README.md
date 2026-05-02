@@ -5,7 +5,7 @@ contributing to open-source.
 
 ### 🔧 Projects
 Most of my personal projects are hosted on this GitHub account.
-They include backend systems, ML/AI experiments, and full project pipelines.
+They include backend systems, ML/AI experiments, and full stack project pipelines.
 
 ### 🌍 Open Source Contributions
 Some of my open-source contributions were made using a college email–linked
